@@ -35,6 +35,6 @@ I will select the features I will use to train and test the model: type (on whic
 
 I have chosen the **Logistic Regression** beacuse this model has a binary output, therefore I'm classifing a transaction as fraudolent or not.
 
-![alt text](https://github.com/Este-code/SupervisedProject/blob/main/images1/model.png)
+![alt text](https://github.com/Este-code/SupervisedProject/blob/main/images1/Model.png)
 
 Accuracy: **99%**
